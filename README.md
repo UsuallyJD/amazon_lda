@@ -28,7 +28,7 @@ Analyze Amazon reviews using Latent Dirichlet Allocation (LDA).
 
 3. Run the analysis:
 
-   pipenv run python main.py
+   pipenv run python core.py
 
 4. View results in `lda_visualization.html`.
 
