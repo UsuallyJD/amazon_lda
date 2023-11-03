@@ -10,7 +10,7 @@ Analyze Amazon reviews using Latent Dirichlet Allocation (LDA).
 
 2. Navigate to the project directory:
 
-   cd amazon-reviews-analysis
+   cd amazon_lda
 
 3. Install project dependencies with Pipenv:
 
