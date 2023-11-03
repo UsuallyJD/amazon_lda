@@ -24,7 +24,7 @@ Analyze Amazon reviews using Latent Dirichlet Allocation (LDA).
 
 2. Decompress the dataset using a utility like `unzip` (Linux/macOS) or compatible software:
 
-   unzip reviews_data.csv.zip
+   unzip reviews_data.csv
 
 3. Run the analysis:
 
