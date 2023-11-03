@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pyldavis = "3.4.0"
+pyldavis = "*"
 pandas = "1.5.3"
 numpy = "*"
 matplotlib = "*"
@@ -12,6 +12,9 @@ scikit-learn = "*"
 spacy = "*"
 gensim = "*"
 pipenv = "*"
+ipython = "*"
+squarify = "*"
+wordcloud = "*"
 
 [dev-packages]
 
