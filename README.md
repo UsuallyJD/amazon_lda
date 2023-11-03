@@ -6,7 +6,7 @@ Analyze Amazon reviews using Latent Dirichlet Allocation (LDA).
 
 1. Clone this repository:
 
-   git clone https://github.com/your-username/amazon-reviews-analysis.git
+   git clone https://github.com/usuallyjd/amazon-reviews-analysis.git
 
 2. Navigate to the project directory:
 
